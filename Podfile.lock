@@ -1,0 +1,43 @@
+PODS:
+  - Alamofire (4.8.1)
+  - Kingfisher (5.2.0)
+  - MaterialComponents/Cards (79.3.0):
+    - "MaterialComponents/Cards+Private"
+    - MaterialComponents/Ink
+    - MaterialComponents/private/Icons/ic_check_circle
+    - MaterialComponents/private/Math
+    - MaterialComponents/ShadowLayer
+    - MaterialComponents/Shapes
+  - "MaterialComponents/Cards+Private (79.3.0)"
+  - MaterialComponents/Ink (79.3.0):
+    - MaterialComponents/private/Math
+  - MaterialComponents/private/Icons/Base (79.3.0)
+  - MaterialComponents/private/Icons/ic_check_circle (79.3.0):
+    - MaterialComponents/private/Icons/Base
+  - MaterialComponents/private/Math (79.3.0)
+  - MaterialComponents/ShadowElevations (79.3.0)
+  - MaterialComponents/ShadowLayer (79.3.0):
+    - MaterialComponents/ShadowElevations
+  - MaterialComponents/Shapes (79.3.0):
+    - MaterialComponents/private/Math
+    - MaterialComponents/ShadowLayer
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher (~> 5.0)
+  - MaterialComponents/Cards
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Kingfisher
+    - MaterialComponents
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  Kingfisher: 07067cfacf371117330dceb4b4b8f5c4b691ab42
+  MaterialComponents: b5069f73fccb7c71e1be8b54fd791cc99320f467
+
+PODFILE CHECKSUM: 78fdd045900537313e141b229badbe452ffcade7
+
+COCOAPODS: 1.6.1

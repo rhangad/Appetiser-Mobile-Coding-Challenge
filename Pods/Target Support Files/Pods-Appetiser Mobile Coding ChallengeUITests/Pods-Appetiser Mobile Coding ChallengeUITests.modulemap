@@ -1,0 +1,6 @@
+framework module Pods_Appetiser_Mobile_Coding_ChallengeUITests {
+  umbrella header "Pods-Appetiser Mobile Coding ChallengeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
